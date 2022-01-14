@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ber4ni
-- 👀 I’m interested in comuters
+- 👀 I’m interested in computers
 - 🌱 I’m currently learning gnu/linux
 - 💞️ I’m looking to collaborate on open source
 - 📫 How to reach me()
